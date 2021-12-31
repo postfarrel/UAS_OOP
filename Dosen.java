@@ -1,5 +1,5 @@
 package com.oop.jdbc.pojo;
-
+/hi
 public class Dosen {
 	private int nip;
 	private String nama;
